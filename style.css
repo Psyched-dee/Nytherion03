@@ -1,5 +1,4 @@
-/* ============================= */
-/* Reset some default styles */
+
 * {
     margin: 0;
     padding: 0;
@@ -16,7 +15,7 @@ body {
 /* ============================= */
 /* Header Styles */
 header {
-    background-color: #ff6347; /* tomato */
+    background-color: #ff6347; 
     padding: 20px 0;
     position: sticky;
     top: 0;
